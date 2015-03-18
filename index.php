@@ -8,9 +8,9 @@
 <div id="navigation">
 <ul>
 <li><a href="#">Home Page</a></li>
-<li><a href="#">About Us</a></li>
-<li><a href="#">Table</a></li>
-<li><a href="#">Contact Form</a></li>
+<li><a href="aboutus.php">About Us</a></li>
+<li><a href="view_table.php">Table</a></li>
+<li><a href="add_data.php">Adding a Form</a></li>
 </ul>
 </div>
 </body>
